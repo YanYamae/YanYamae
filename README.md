@@ -31,7 +31,8 @@
 
 <div style="display: flex; align-items: center; gap: .75rem; flex-wrap: wrap">
   <img lt="C Embedded" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-plain.svg" />
-  <img lt="C Language" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img lt="C Language" width="26px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://raw.githubusercontent.com/devicons/devicon/2c6a21d9f475741208d25c41da89dd308bb4fabb/icons/javascript/javascript-original.svg)" />
+  
   
   
   
